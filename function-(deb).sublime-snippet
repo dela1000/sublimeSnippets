@@ -1,0 +1,7 @@
+<snippet>
+    <content>
+    <![CDATA[debugger;]]></content>
+    <tabTrigger>deb</tabTrigger>
+    <scope>source.js</scope>
+    <description>debugger</description>
+</snippet>

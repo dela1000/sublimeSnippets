@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[/*${1:}
+
+*/]]></content>
+    <tabTrigger>comment block</tabTrigger>
+    <scope>source.js</scope>
+    <description>Comment block</description>
+</snippet>

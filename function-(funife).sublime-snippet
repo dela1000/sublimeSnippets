@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+    <![CDATA[function ${1:name1} (${2:item}) {
+  if (${3:true}) {
+  ${4:}
+  } else {
+  ${5:}
+  }
+}]]></content>
+    <tabTrigger>funife</tabTrigger>
+    <scope>source.js</scope>
+    <description>Function/If Else</description>
+</snippet>

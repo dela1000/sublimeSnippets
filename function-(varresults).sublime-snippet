@@ -1,0 +1,11 @@
+<snippet>
+    <content>
+    <![CDATA[var results = [];
+  
+  ${1:}
+
+return results;]]></content>
+    <tabTrigger>varresults</tabTrigger>
+    <scope>source.js</scope>
+    <description>var results with return</description>
+</snippet>

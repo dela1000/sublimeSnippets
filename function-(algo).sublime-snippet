@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+    <![CDATA[/*1. Establish rules of problems: Inputs, Outputs, constrains.
+2. (TDD) Write tests to verify solution.
+3. Consider edge cases, identify archetypes, patterns. (Negative numbers, strings in a number array)
+4. Generate plain language step by step plan to solve problems
+5. Write pseudocode using indents hierarchically
+6. (Optional) verify pseudocode steps using simple input
+7. traslate each step into line of code
+*/]]></content>
+    <tabTrigger>algorithm</tabTrigger>
+    <scope>source.js</scope>
+    <description>algorithm steps</description>
+</snippet>

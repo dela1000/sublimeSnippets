@@ -1,0 +1,7 @@
+<snippet>
+    <content>
+    <![CDATA[console.log("${1:to log}: ", JSON.stringify(${1:item}, null, "\t"));]]></content>
+    <tabTrigger>consJSON</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.log with JSON</description>
+</snippet>

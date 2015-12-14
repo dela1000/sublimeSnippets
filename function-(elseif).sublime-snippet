@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[if (${1:false}) {
+  ${2:}
+} else ]]></content>
+    <tabTrigger>elseif</tabTrigger>
+    <scope>source.js</scope>
+    <description>else if Addition</description>
+</snippet>
