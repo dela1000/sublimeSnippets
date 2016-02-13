@@ -1,6 +1,6 @@
 <snippet>
     <content>
-    <![CDATA[console.log("${1:here}")]]></content>
+    <![CDATA[console.log("+++ $TM_LINE_NUMBER $TM_FILENAME ${1:Here}")]]></content>
     <tabTrigger>console</tabTrigger>
     <scope>source.js</scope>
     <description>console.log without item</description>
